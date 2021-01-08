@@ -19,7 +19,7 @@ i've also mentioned the steps we could take towards achiving these goals.
 
 # Author & License
 
-This Website is made by [Aditya Godse](https://twitter.com/adityagodse93) using bootstrap framework. 
+This Website is designed by [Aditya Godse](https://twitter.com/adityagodse93) using bootstrap framework. 
 
 # Features
 
