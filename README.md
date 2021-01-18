@@ -25,19 +25,18 @@ This Website is designed by [Aditya Godse](https://twitter.com/adityagodse93) us
 
 This is everything in the site pages:
 
-page 1) Home page
-         Logo and name which increase their size on hovering
-         Navbar whose position is sticked to the page
-page 2) United nations(about)
-         Here is the history of the united nations 
-         On clicking on the history text it goes to the wikipedia page of history of united nations.
-page 3) What do they do (functions of UN)
-         there are four functions of un and there is a hovering effect given to them which revels some text
-         There are some paragrphs about UN functions
+ 1) Home page
+ 2) Logo and name which increase their size on hovering
+ 3) Navbar whose position is sticked to the page
+ 4) United nations(about)
+ 5) Here is the history of the united nations 
+ 6) On clicking on the history text it goes to the wikipedia page of history of united nations.
+ 7) What do they do (functions of UN)
+ 8) there are four functions of un and there is a hovering effect given to them which revels some text
+ 9) There are some paragrphs about UN functions
         
 (Parallax screen image)
 
-page 4) 
 # Features
 
 parallax screen
