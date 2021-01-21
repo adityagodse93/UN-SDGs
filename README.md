@@ -21,22 +21,6 @@ i've also mentioned the steps we could take towards achiving these goals.
 
 This Website is designed by [Aditya Godse](https://twitter.com/adityagodse93) using bootstrap framework. 
 
-# Transitions
-
-This is everything in the site pages:
-
- 1) Home page
- 2) Logo and name which increase their size on hovering
- 3) Navbar whose position is sticked to the page
- 4) United nations(about)
- 5) Here is the history of the united nations 
- 6) On clicking on the history text it goes to the wikipedia page of history of united nations.
- 7) What do they do (functions of UN)
- 8) there are four functions of un and there is a hovering effect given to them which revels some text
- 9) There are some paragrphs about UN functions
-        
-(Parallax screen image)
-
 # Features
 
 parallax screen
@@ -47,6 +31,8 @@ youtube video links
 twitter tweets about climate change
 fullscreen web gallery feature for images
 responsive
+Embeded Youtube Videos
+Embeded Tweets
 
 # Credits
 
